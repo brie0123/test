@@ -79,7 +79,7 @@ number = st.number_input(
     min_value=10,
     max_value=100,
     value=10,
-    step=5'
+    step=5
 )
 
 st.write('당신이 입력하신 나이는:', number)
